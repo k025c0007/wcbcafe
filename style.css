@@ -64,3 +64,12 @@ img {
 .main-nav a:hover {
     color: #0bd
 }
+/*背景画像広げる*/
+.cover {
+    background-size: cover;
+    background-position: center bottom;
+    height: 800px;
+}
+.cover-home {
+    background-image: url(../wcbcafe/images/cover-home-s.webp);
+}
