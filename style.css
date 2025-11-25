@@ -104,6 +104,9 @@ img {
     padding: .75rem 1.5rem;
     transition: .5s;
 }
+.btn:hover {
+    background-color: #0090aa;
+}
 /*フッター*/
 .page-footer {
     background-image: url(../wcbcafe/images/footer-s.webp);
