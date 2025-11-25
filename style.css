@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+/*共通部分*/
 html {
     font-size: 100%;
 }
@@ -37,7 +38,12 @@ img {
     font-family: 'Philosopher', sans-serif;
     font-weight: normal;
 }
-
+.page-title {
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 2rem;
+    line-height: 1.4;
+}
 /*ヘッダー*/
 .page-header {
     padding-top: .5rem;
